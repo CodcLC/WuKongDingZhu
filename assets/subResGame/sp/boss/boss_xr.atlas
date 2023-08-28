@@ -1,0 +1,41 @@
+
+boss_xr.png
+size: 799,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_xr_1
+  rotate: true
+  xy: 2, 8
+  size: 254, 274
+  orig: 255, 275
+  offset: 0, 1
+  index: -1
+boss_xr_2
+  rotate: false
+  xy: 278, 16
+  size: 154, 246
+  orig: 154, 246
+  offset: 0, 0
+  index: -1
+boss_xr_3
+  rotate: false
+  xy: 434, 16
+  size: 154, 246
+  orig: 154, 246
+  offset: 0, 0
+  index: -1
+boss_xr_4
+  rotate: false
+  xy: 590, 131
+  size: 207, 131
+  orig: 207, 131
+  offset: 0, 0
+  index: -1
+boss_xr_5
+  rotate: false
+  xy: 590, 2
+  size: 207, 127
+  orig: 208, 127
+  offset: 0, 0
+  index: -1

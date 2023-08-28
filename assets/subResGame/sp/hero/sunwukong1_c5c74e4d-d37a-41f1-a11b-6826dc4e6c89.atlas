@@ -1,0 +1,76 @@
+
+sunwukong1.png
+size: 83,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dou1
+  rotate: false
+  xy: 75, 22
+  size: 6, 19
+  orig: 6, 19
+  offset: 0, 0
+  index: -1
+dou2
+  rotate: true
+  xy: 53, 11
+  size: 9, 29
+  orig: 9, 29
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: false
+  xy: 2, 1
+  size: 49, 8
+  orig: 49, 8
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 133
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 0, 48
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 53, 2
+  size: 25, 7
+  orig: 25, 7
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 0, 29
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: 180
+  xy: 0, 11
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 75, 43
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: true
+  xy: 43, 26
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

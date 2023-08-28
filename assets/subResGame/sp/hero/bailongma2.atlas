@@ -1,0 +1,160 @@
+
+bailongma2.png
+size: 98,549
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shentia
+  rotate: false
+  xy: 48, 31
+  size: 43, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+shentib
+  rotate: true
+  xy: 0, 31
+  size: 44, 46
+  orig: 46, 49
+  offset: 1, 3
+  index: -1
+shentic
+  rotate: true
+  xy: 0, 77
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+shentid
+  rotate: false
+  xy: 0, 123
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+shentie
+  rotate: false
+  xy: 0, 298
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+toua
+  rotate: false
+  xy: 0, 174
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+toub1
+  rotate: true
+  xy: 0, 353
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+toub2
+  rotate: true
+  xy: 63, 174
+  size: 58, 28
+  orig: 58, 28
+  offset: 0, 0
+  index: -1
+touc1
+  rotate: true
+  xy: 0, 235
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+touc2
+  rotate: true
+  xy: 66, 77
+  size: 58, 28
+  orig: 58, 28
+  offset: 0, 0
+  index: -1
+toud
+  rotate: false
+  xy: 0, 483
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+toue
+  rotate: false
+  xy: 0, 417
+  size: 86, 64
+  orig: 86, 65
+  offset: 0, 1
+  index: -1
+youshoua
+  rotate: false
+  xy: 77, 293
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+youshoub
+  rotate: false
+  xy: 64, 3
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+youshouc
+  rotate: false
+  xy: 66, 137
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+youshoud
+  rotate: true
+  xy: 67, 353
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+youshoue
+  rotate: false
+  xy: 67, 385
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+zuoshoua
+  rotate: false
+  xy: 77, 318
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+zuoshoub
+  rotate: true
+  xy: 67, 270
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+zuoshouc
+  rotate: false
+  xy: 67, 234
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+zuoshoud
+  rotate: false
+  xy: 0, 0
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+zuoshoue
+  rotate: false
+  xy: 32, 0
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

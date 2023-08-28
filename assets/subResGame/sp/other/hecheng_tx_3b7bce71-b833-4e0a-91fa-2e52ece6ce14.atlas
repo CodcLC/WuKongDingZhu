@@ -1,0 +1,27 @@
+
+hecheng_tx.png
+size: 153,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fd_big_star_2
+  rotate: false
+  xy: 107, 59
+  size: 46, 46
+  orig: 58, 58
+  offset: 4, 7
+  index: -1
+glow02
+  rotate: false
+  xy: 0, 0
+  size: 105, 105
+  orig: 115, 115
+  offset: 5, 5
+  index: -1
+glow_circle01
+  rotate: false
+  xy: 0, 107
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1

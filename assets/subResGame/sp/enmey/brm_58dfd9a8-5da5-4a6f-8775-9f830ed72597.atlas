@@ -1,0 +1,83 @@
+
+brm.png
+size: 120,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brm_body
+  rotate: true
+  xy: 23, 23
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+brm_jio
+  rotate: false
+  xy: 55, 25
+  size: 20, 43
+  orig: 26, 43
+  offset: 6, 0
+  index: -1
+brm_jio2
+  rotate: true
+  xy: 23, 2
+  size: 19, 43
+  orig: 20, 43
+  offset: 1, 0
+  index: -1
+brm_jio3
+  rotate: false
+  xy: 106, 59
+  size: 12, 20
+  orig: 13, 20
+  offset: 1, 0
+  index: -1
+brm_jio4
+  rotate: false
+  xy: 68, 2
+  size: 12, 21
+  orig: 14, 22
+  offset: 0, 1
+  index: -1
+brm_kuijia
+  rotate: true
+  xy: 67, 81
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+brm_qiang
+  rotate: false
+  xy: 2, 11
+  size: 19, 129
+  orig: 19, 129
+  offset: 0, 0
+  index: -1
+brm_shou1
+  rotate: false
+  xy: 77, 40
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+brm_shou2
+  rotate: true
+  xy: 82, 4
+  size: 34, 26
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+brm_shouzhi
+  rotate: false
+  xy: 106, 46
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+brm_tou
+  rotate: false
+  xy: 23, 70
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1

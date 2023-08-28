@@ -1,0 +1,48 @@
+
+slm.png
+size: 132,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slm_ yanzhu
+  rotate: false
+  xy: 124, 21
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+slm_ yanzhu2
+  rotate: false
+  xy: 124, 31
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+slm_body
+  rotate: true
+  xy: 2, 2
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1
+slm_yanbai
+  rotate: false
+  xy: 101, 42
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+slm_yanbai2
+  rotate: false
+  xy: 101, 74
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+slm_zuiab
+  rotate: true
+  xy: 101, 4
+  size: 36, 21
+  orig: 47, 21
+  offset: 5, 0
+  index: -1

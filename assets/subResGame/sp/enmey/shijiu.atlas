@@ -1,0 +1,83 @@
+
+shijiu.png
+size: 172,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shijiu_body
+  rotate: false
+  xy: 112, 41
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+shijiu_chibang1
+  rotate: false
+  xy: 65, 36
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+shijiu_chibang2
+  rotate: true
+  xy: 131, 91
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+shijiu_chibang4
+  rotate: false
+  xy: 2, 70
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+shijiu_jio1
+  rotate: false
+  xy: 148, 43
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1
+shijiu_jio2
+  rotate: true
+  xy: 116, 21
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1
+shijiu_jio3
+  rotate: false
+  xy: 116, 2
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+shijiu_jio4
+  rotate: false
+  xy: 130, 2
+  size: 12, 17
+  orig: 12, 18
+  offset: 0, 1
+  index: -1
+shijiu_tou
+  rotate: false
+  xy: 65, 77
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+shijiu_vhibang3
+  rotate: false
+  xy: 2, 2
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+shijiu_xiongmao
+  rotate: false
+  xy: 65, 2
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+boss_shijiu.png
+size: 398,689
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bosssj1_1
+  rotate: true
+  xy: 2, 355
+  size: 166, 216
+  orig: 166, 216
+  offset: 0, 0
+  index: -1
+bosssj1_2
+  rotate: true
+  xy: 249, 638
+  size: 49, 122
+  orig: 49, 122
+  offset: 0, 0
+  index: -1
+bosssj1_3
+  rotate: true
+  xy: 249, 587
+  size: 49, 122
+  orig: 49, 122
+  offset: 0, 0
+  index: -1
+bosssj1_4
+  rotate: false
+  xy: 193, 44
+  size: 72, 58
+  orig: 72, 58
+  offset: 0, 0
+  index: -1
+bosssj1_5
+  rotate: false
+  xy: 2, 2
+  size: 189, 173
+  orig: 189, 177
+  offset: 0, 0
+  index: -1
+bosssj1_6
+  rotate: false
+  xy: 206, 104
+  size: 189, 175
+  orig: 189, 177
+  offset: 0, 0
+  index: -1
+bosssj1_7
+  rotate: true
+  xy: 267, 21
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+bosssj1_8
+  rotate: true
+  xy: 323, 70
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+bosssj2_1
+  rotate: true
+  xy: 2, 523
+  size: 164, 245
+  orig: 165, 246
+  offset: 0, 0
+  index: -1
+bosssj2_11
+  rotate: false
+  xy: 373, 510
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+bosssj2_111
+  rotate: false
+  xy: 373, 546
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+bosssj2_2
+  rotate: true
+  xy: 249, 536
+  size: 49, 122
+  orig: 49, 122
+  offset: 0, 0
+  index: -1
+bosssj2_3
+  rotate: true
+  xy: 249, 485
+  size: 49, 122
+  orig: 49, 122
+  offset: 0, 0
+  index: -1
+bosssj2_4
+  rotate: false
+  xy: 267, 56
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+bosssj2_5
+  rotate: false
+  xy: 220, 281
+  size: 176, 202
+  orig: 176, 202
+  offset: 0, 0
+  index: -1
+bosssj2_51
+  rotate: false
+  xy: 373, 639
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+bosssj2_6
+  rotate: true
+  xy: 2, 177
+  size: 176, 202
+  orig: 176, 202
+  offset: 0, 0
+  index: -1
+bosssj2_61
+  rotate: false
+  xy: 373, 589
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+bosssj2_7
+  rotate: true
+  xy: 193, 9
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+bosssj2_8
+  rotate: true
+  xy: 323, 36
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1

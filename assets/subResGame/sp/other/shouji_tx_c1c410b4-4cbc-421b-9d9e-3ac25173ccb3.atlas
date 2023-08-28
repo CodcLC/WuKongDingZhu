@@ -1,0 +1,69 @@
+
+shouji_tx.png
+size: 59,476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yan_000
+  rotate: false
+  xy: 0, 301
+  size: 55, 55
+  orig: 77, 77
+  offset: 9, 13
+  index: -1
+yan_001
+  rotate: false
+  xy: 0, 358
+  size: 57, 56
+  orig: 77, 77
+  offset: 9, 13
+  index: -1
+yan_002
+  rotate: false
+  xy: 0, 193
+  size: 57, 51
+  orig: 77, 77
+  offset: 11, 20
+  index: -1
+yan_003
+  rotate: false
+  xy: 0, 98
+  size: 59, 42
+  orig: 77, 77
+  offset: 9, 19
+  index: -1
+yan_004
+  rotate: false
+  xy: 0, 0
+  size: 45, 45
+  orig: 77, 77
+  offset: 7, 17
+  index: -1
+yan_005
+  rotate: false
+  xy: 0, 47
+  size: 49, 49
+  orig: 77, 77
+  offset: 5, 15
+  index: -1
+yan_006
+  rotate: true
+  xy: 0, 246
+  size: 53, 56
+  orig: 77, 77
+  offset: 3, 10
+  index: -1
+yan_007
+  rotate: false
+  xy: 0, 416
+  size: 57, 60
+  orig: 77, 77
+  offset: 2, 7
+  index: -1
+yan_008
+  rotate: true
+  xy: 0, 142
+  size: 49, 58
+  orig: 77, 77
+  offset: 12, 10
+  index: -1

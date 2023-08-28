@@ -1,0 +1,55 @@
+
+xem.png
+size: 120,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xem_1
+  rotate: true
+  xy: 55, 7
+  size: 9, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+xem_2
+  rotate: true
+  xy: 33, 2
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+xem_3
+  rotate: true
+  xy: 2, 16
+  size: 122, 38
+  orig: 122, 38
+  offset: 0, 0
+  index: -1
+xem_4
+  rotate: true
+  xy: 42, 75
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+xem_5
+  rotate: false
+  xy: 42, 18
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+xem_6
+  rotate: false
+  xy: 83, 18
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+xem_7
+  rotate: true
+  xy: 2, 4
+  size: 10, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1

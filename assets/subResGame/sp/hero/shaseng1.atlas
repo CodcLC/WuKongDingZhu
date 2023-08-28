@@ -1,0 +1,41 @@
+
+shaseng1.png
+size: 225,431
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 0, 257
+  size: 225, 174
+  orig: 230, 186
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 98, 13
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 0, 0
+  size: 96, 74
+  orig: 96, 75
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 0, 155
+  size: 225, 100
+  orig: 226, 100
+  offset: 1, 0
+  index: -1
+5
+  rotate: false
+  xy: 0, 76
+  size: 219, 77
+  orig: 221, 78
+  offset: 1, 0
+  index: -1

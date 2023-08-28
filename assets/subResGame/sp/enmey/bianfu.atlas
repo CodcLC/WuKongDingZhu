@@ -1,0 +1,41 @@
+
+bianfu.png
+size: 99,231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianfu_1
+  rotate: true
+  xy: 2, 75
+  size: 71, 95
+  orig: 71, 95
+  offset: 0, 0
+  index: -1
+bianfu_2
+  rotate: true
+  xy: 2, 2
+  size: 71, 95
+  orig: 73, 95
+  offset: 0, 0
+  index: -1
+bianfu_3
+  rotate: true
+  xy: 2, 209
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+bianfu_4
+  rotate: true
+  xy: 26, 209
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+bianfu_5
+  rotate: true
+  xy: 2, 148
+  size: 59, 94
+  orig: 59, 94
+  offset: 0, 0
+  index: -1

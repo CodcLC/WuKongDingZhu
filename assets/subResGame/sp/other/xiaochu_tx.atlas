@@ -1,0 +1,139 @@
+
+xiaochu_tx.png
+size: 742,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111
+  rotate: false
+  xy: 0, 34
+  size: 215, 218
+  orig: 232, 232
+  offset: 10, 7
+  index: -1
+222
+  rotate: false
+  xy: 217, 23
+  size: 187, 229
+  orig: 232, 232
+  offset: 31, 0
+  index: -1
+fx_smoke_puff_1_new_sheet_000
+  rotate: true
+  xy: 710, 68
+  size: 34, 32
+  orig: 128, 128
+  offset: 54, 40
+  index: -1
+fx_smoke_puff_1_new_sheet_001
+  rotate: false
+  xy: 487, 9
+  size: 52, 46
+  orig: 128, 128
+  offset: 43, 35
+  index: -1
+fx_smoke_puff_1_new_sheet_002
+  rotate: false
+  xy: 650, 8
+  size: 67, 58
+  orig: 128, 128
+  offset: 35, 30
+  index: -1
+fx_smoke_puff_1_new_sheet_003
+  rotate: false
+  xy: 650, 8
+  size: 67, 58
+  orig: 128, 128
+  offset: 35, 30
+  index: -1
+fx_smoke_puff_1_new_sheet_004
+  rotate: true
+  xy: 642, 160
+  size: 79, 66
+  orig: 128, 128
+  offset: 28, 26
+  index: -1
+fx_smoke_puff_1_new_sheet_005
+  rotate: true
+  xy: 637, 68
+  size: 90, 71
+  orig: 128, 128
+  offset: 21, 23
+  index: -1
+fx_smoke_puff_1_new_sheet_006
+  rotate: true
+  xy: 485, 57
+  size: 96, 76
+  orig: 128, 128
+  offset: 16, 21
+  index: -1
+fx_smoke_puff_1_new_sheet_007
+  rotate: true
+  xy: 406, 153
+  size: 99, 77
+  orig: 128, 128
+  offset: 14, 21
+  index: -1
+fx_smoke_puff_1_new_sheet_008
+  rotate: true
+  xy: 406, 52
+  size: 99, 77
+  orig: 128, 128
+  offset: 13, 22
+  index: -1
+fx_smoke_puff_1_new_sheet_009
+  rotate: true
+  xy: 485, 155
+  size: 97, 76
+  orig: 128, 128
+  offset: 11, 24
+  index: -1
+fx_smoke_puff_1_new_sheet_010
+  rotate: true
+  xy: 563, 160
+  size: 92, 77
+  orig: 128, 128
+  offset: 12, 24
+  index: -1
+fx_smoke_puff_1_new_sheet_011
+  rotate: true
+  xy: 563, 67
+  size: 91, 72
+  orig: 128, 128
+  offset: 12, 29
+  index: -1
+fx_smoke_puff_1_new_sheet_012
+  rotate: false
+  xy: 563, 18
+  size: 85, 47
+  orig: 128, 128
+  offset: 15, 54
+  index: -1
+fx_smoke_puff_1_new_sheet_013
+  rotate: false
+  xy: 406, 10
+  size: 79, 40
+  orig: 128, 128
+  offset: 19, 60
+  index: -1
+fx_smoke_puff_1_new_sheet_014
+  rotate: false
+  xy: 0, 0
+  size: 73, 32
+  orig: 128, 128
+  offset: 23, 65
+  index: -1
+fx_smoke_puff_1_new_sheet_015
+  rotate: false
+  xy: 205, 1
+  size: 68, 20
+  orig: 128, 128
+  offset: 26, 75
+  index: -1
+trail_1017
+  rotate: false
+  xy: 75, 21
+  size: 128, 11
+  orig: 128, 64
+  offset: 0, 28
+  index: -1

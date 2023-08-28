@@ -1,0 +1,76 @@
+
+boss_tsgz.png
+size: 685,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_tsgz_1
+  rotate: true
+  xy: 485, 83
+  size: 38, 36
+  orig: 40, 37
+  offset: 1, 0
+  index: -1
+boss_tsgz_10
+  rotate: false
+  xy: 381, 73
+  size: 102, 64
+  orig: 104, 65
+  offset: 1, 0
+  index: -1
+boss_tsgz_2
+  rotate: true
+  xy: 240, 139
+  size: 112, 255
+  orig: 114, 257
+  offset: 1, 1
+  index: -1
+boss_tsgz_3
+  rotate: false
+  xy: 2, 14
+  size: 236, 237
+  orig: 236, 237
+  offset: 0, 0
+  index: -1
+boss_tsgz_4
+  rotate: false
+  xy: 598, 63
+  size: 85, 58
+  orig: 86, 59
+  offset: 0, 0
+  index: -1
+boss_tsgz_5
+  rotate: true
+  xy: 240, 4
+  size: 133, 139
+  orig: 133, 139
+  offset: 0, 0
+  index: -1
+boss_tsgz_6
+  rotate: true
+  xy: 497, 123
+  size: 128, 180
+  orig: 128, 180
+  offset: 0, 0
+  index: -1
+boss_tsgz_7
+  rotate: false
+  xy: 598, 2
+  size: 64, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+boss_tsgz_8
+  rotate: true
+  xy: 381, 17
+  size: 54, 113
+  orig: 54, 114
+  offset: 0, 1
+  index: -1
+boss_tsgz_9
+  rotate: true
+  xy: 496, 24
+  size: 57, 100
+  orig: 58, 100
+  offset: 1, 0
+  index: -1

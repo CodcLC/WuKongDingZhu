@@ -1,0 +1,14 @@
+info face="face" size=269
+common lineHeight=269 scaleW=0 scaleH=0 pages=1
+page id=0 file="red.png"
+chars count=10
+char id=48 x=169 y=273 width=175 height=263 xoffset=0 yoffset=0 xadvance=175 page=0 chnl=15
+char id=49 x=346 y=273 width=128 height=259 xoffset=0 yoffset=0 xadvance=128 page=0 chnl=15
+char id=50 x=2 y=2 width=165 height=259 xoffset=0 yoffset=0 xadvance=165 page=0 chnl=15
+char id=51 x=169 y=2 width=151 height=262 xoffset=0 yoffset=0 xadvance=151 page=0 chnl=15
+char id=52 x=322 y=2 width=177 height=269 xoffset=0 yoffset=0 xadvance=177 page=0 chnl=15
+char id=53 x=501 y=2 width=152 height=261 xoffset=0 yoffset=0 xadvance=152 page=0 chnl=15
+char id=54 x=655 y=2 width=170 height=269 xoffset=0 yoffset=0 xadvance=170 page=0 chnl=15
+char id=55 x=827 y=2 width=154 height=256 xoffset=0 yoffset=0 xadvance=154 page=0 chnl=15
+char id=56 x=983 y=2 width=165 height=269 xoffset=0 yoffset=0 xadvance=165 page=0 chnl=15
+char id=57 x=2 y=273 width=165 height=263 xoffset=0 yoffset=0 xadvance=165 page=0 chnl=15

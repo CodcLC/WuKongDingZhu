@@ -1,0 +1,118 @@
+
+zbj_tsj.png
+size: 1804,457
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_00000
+  rotate: false
+  xy: 1558, 405
+  size: 195, 38
+  orig: 576, 324
+  offset: 185, 134
+  index: -1
+001_00001
+  rotate: true
+  xy: 1745, 35
+  size: 273, 59
+  orig: 576, 324
+  offset: 149, 121
+  index: -1
+001_00002
+  rotate: true
+  xy: 1661, 35
+  size: 331, 82
+  orig: 576, 324
+  offset: 114, 106
+  index: -1
+001_00003
+  rotate: true
+  xy: 1558, 35
+  size: 368, 101
+  orig: 576, 324
+  offset: 99, 95
+  index: -1
+001_00004
+  rotate: true
+  xy: 1433, 35
+  size: 404, 123
+  orig: 576, 324
+  offset: 80, 81
+  index: -1
+001_00005
+  rotate: true
+  xy: 1297, 35
+  size: 422, 134
+  orig: 576, 324
+  offset: 71, 74
+  index: -1
+001_00006
+  rotate: true
+  xy: 899, 10
+  size: 430, 139
+  orig: 576, 324
+  offset: 67, 71
+  index: -1
+001_00007
+  rotate: true
+  xy: 754, 10
+  size: 438, 143
+  orig: 576, 324
+  offset: 63, 66
+  index: -1
+001_00008
+  rotate: true
+  xy: 608, 10
+  size: 443, 144
+  orig: 576, 324
+  offset: 61, 65
+  index: -1
+001_00009
+  rotate: true
+  xy: 458, 10
+  size: 447, 148
+  orig: 576, 324
+  offset: 59, 62
+  index: -1
+001_00010
+  rotate: false
+  xy: 0, 2
+  size: 453, 150
+  orig: 576, 324
+  offset: 56, 58
+  index: -1
+001_00011
+  rotate: false
+  xy: 0, 154
+  size: 455, 150
+  orig: 576, 324
+  offset: 55, 57
+  index: -1
+001_00012
+  rotate: false
+  xy: 0, 306
+  size: 456, 151
+  orig: 576, 324
+  offset: 54, 56
+  index: -1
+001_00013
+  rotate: true
+  xy: 1169, 0
+  size: 457, 126
+  orig: 576, 324
+  offset: 53, 55
+  index: -1
+001_00014
+  rotate: true
+  xy: 1040, 0
+  size: 457, 127
+  orig: 576, 324
+  offset: 52, 53
+  index: -1
+001_00015
+  rotate: false
+  xy: 455, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

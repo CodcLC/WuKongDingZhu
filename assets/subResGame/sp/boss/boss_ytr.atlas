@@ -1,0 +1,69 @@
+
+boss_ytr.png
+size: 506,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_ytr_1
+  rotate: false
+  xy: 103, 10
+  size: 118, 43
+  orig: 126, 51
+  offset: 4, 4
+  index: -1
+boss_ytr_2
+  rotate: true
+  xy: 271, 236
+  size: 300, 213
+  orig: 302, 214
+  offset: 1, 1
+  index: -1
+boss_ytr_3
+  rotate: false
+  xy: 461, 30
+  size: 43, 49
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+boss_ytr_4
+  rotate: true
+  xy: 2, 147
+  size: 389, 267
+  orig: 392, 269
+  offset: 2, 1
+  index: -1
+boss_ytr_5
+  rotate: true
+  xy: 261, 2
+  size: 77, 114
+  orig: 77, 115
+  offset: 0, 1
+  index: -1
+boss_ytr_6
+  rotate: false
+  xy: 2, 51
+  size: 99, 94
+  orig: 99, 96
+  offset: 0, 1
+  index: -1
+boss_ytr_7
+  rotate: true
+  xy: 103, 55
+  size: 90, 156
+  orig: 93, 158
+  offset: 1, 2
+  index: -1
+boss_ytr_8
+  rotate: true
+  xy: 271, 81
+  size: 153, 232
+  orig: 155, 233
+  offset: 1, 0
+  index: -1
+boss_ytr_9
+  rotate: false
+  xy: 377, 2
+  size: 82, 77
+  orig: 82, 78
+  offset: 0, 1
+  index: -1

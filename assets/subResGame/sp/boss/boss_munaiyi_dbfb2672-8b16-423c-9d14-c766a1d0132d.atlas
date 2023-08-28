@@ -1,0 +1,62 @@
+
+boss_munaiyi.png
+size: 301,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bossmny_1
+  rotate: false
+  xy: 2, 2
+  size: 217, 219
+  orig: 217, 219
+  offset: 0, 0
+  index: -1
+bossmny_2
+  rotate: false
+  xy: 221, 84
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+bossmny_3
+  rotate: false
+  xy: 221, 142
+  size: 71, 86
+  orig: 71, 86
+  offset: 0, 0
+  index: -1
+bossmny_4
+  rotate: true
+  xy: 143, 230
+  size: 43, 100
+  orig: 43, 102
+  offset: 0, 1
+  index: -1
+bossmny_5
+  rotate: false
+  xy: 143, 336
+  size: 156, 205
+  orig: 178, 206
+  offset: 21, 1
+  index: -1
+bossmny_6
+  rotate: false
+  xy: 221, 36
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+bossmny_7
+  rotate: false
+  xy: 2, 223
+  size: 139, 318
+  orig: 139, 318
+  offset: 0, 0
+  index: -1
+bossmny_8
+  rotate: false
+  xy: 143, 275
+  size: 109, 59
+  orig: 110, 59
+  offset: 0, 0
+  index: -1

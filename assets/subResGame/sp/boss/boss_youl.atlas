@@ -1,0 +1,41 @@
+
+boss_youl.png
+size: 439,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_yl
+  rotate: false
+  xy: 333, 147
+  size: 57, 88
+  orig: 57, 88
+  offset: 0, 0
+  index: -1
+boss_yl2
+  rotate: false
+  xy: 385, 77
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+boss_yl3
+  rotate: false
+  xy: 392, 158
+  size: 45, 77
+  orig: 46, 78
+  offset: 0, 0
+  index: -1
+boss_yl4
+  rotate: true
+  xy: 333, 5
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+boss_yl5
+  rotate: true
+  xy: 2, 2
+  size: 233, 329
+  orig: 243, 349
+  offset: 10, 0
+  index: -1

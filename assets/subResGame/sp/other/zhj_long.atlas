@@ -1,0 +1,27 @@
+
+zhj_long.png
+size: 147,790
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: true
+  xy: 0, 1
+  size: 137, 143
+  orig: 141, 151
+  offset: 1, 4
+  index: -1
+l
+  rotate: false
+  xy: 0, 140
+  size: 147, 652
+  orig: 153, 658
+  offset: 3, 3
+  index: -1
+t
+  rotate: false
+  xy: 0, 749
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+csm_tx.png
+size: 371,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heidong
+  rotate: true
+  xy: 283, 111
+  size: 91, 88
+  orig: 95, 93
+  offset: 2, 2
+  index: -1
+heidong2
+  rotate: false
+  xy: 0, 13
+  size: 174, 189
+  orig: 232, 232
+  offset: 32, 24
+  index: -1
+time_door
+  rotate: false
+  xy: 176, 0
+  size: 105, 202
+  orig: 108, 206
+  offset: 2, 2
+  index: -1

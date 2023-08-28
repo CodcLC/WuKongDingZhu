@@ -1,0 +1,111 @@
+
+ranshao_buff.png
+size: 74,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+resurrection_energy_1_solid_sheet_000
+  rotate: false
+  xy: 62, 92
+  size: 8, 11
+  orig: 51, 102
+  offset: 18, 31
+  index: -1
+resurrection_energy_1_solid_sheet_001
+  rotate: false
+  xy: 62, 72
+  size: 12, 18
+  orig: 51, 102
+  offset: 16, 28
+  index: -1
+resurrection_energy_1_solid_sheet_002
+  rotate: false
+  xy: 48, 9
+  size: 19, 32
+  orig: 51, 102
+  offset: 13, 21
+  index: -1
+resurrection_energy_1_solid_sheet_003
+  rotate: true
+  xy: 0, 17
+  size: 24, 46
+  orig: 51, 102
+  offset: 12, 17
+  index: -1
+resurrection_energy_1_solid_sheet_004
+  rotate: true
+  xy: 0, 43
+  size: 29, 59
+  orig: 51, 102
+  offset: 9, 15
+  index: -1
+resurrection_energy_1_solid_sheet_005
+  rotate: true
+  xy: 0, 107
+  size: 32, 67
+  orig: 51, 102
+  offset: 8, 14
+  index: -1
+resurrection_energy_1_solid_sheet_006
+  rotate: true
+  xy: 0, 141
+  size: 34, 70
+  orig: 51, 102
+  offset: 7, 13
+  index: -1
+resurrection_energy_1_solid_sheet_007
+  rotate: true
+  xy: 0, 177
+  size: 36, 69
+  orig: 51, 102
+  offset: 7, 13
+  index: -1
+resurrection_energy_1_solid_sheet_008
+  rotate: false
+  xy: 0, 221
+  size: 37, 71
+  orig: 51, 102
+  offset: 6, 11
+  index: -1
+resurrection_energy_1_solid_sheet_009
+  rotate: false
+  xy: 39, 215
+  size: 34, 77
+  orig: 51, 102
+  offset: 8, 11
+  index: -1
+resurrection_energy_1_solid_sheet_010
+  rotate: true
+  xy: 0, 74
+  size: 31, 60
+  orig: 51, 102
+  offset: 11, 33
+  index: -1
+resurrection_energy_1_solid_sheet_011
+  rotate: true
+  xy: 0, 2
+  size: 13, 38
+  orig: 51, 102
+  offset: 27, 57
+  index: -1
+resurrection_energy_1_solid_sheet_012
+  rotate: false
+  xy: 61, 43
+  size: 9, 27
+  orig: 51, 102
+  offset: 30, 65
+  index: -1
+resurrection_energy_1_solid_sheet_013
+  rotate: true
+  xy: 40, 0
+  size: 7, 12
+  orig: 51, 102
+  offset: 32, 78
+  index: -1
+resurrection_energy_1_solid_sheet_014
+  rotate: false
+  xy: 0, 218
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

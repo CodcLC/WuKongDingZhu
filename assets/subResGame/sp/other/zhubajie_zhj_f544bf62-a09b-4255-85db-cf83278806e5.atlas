@@ -1,0 +1,76 @@
+
+zhubajie_zhj.png
+size: 245,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz
+  rotate: false
+  xy: 218, 77
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 0, 6
+  size: 113, 112
+  orig: 115, 113
+  offset: 1, 1
+  index: -1
+ed
+  rotate: true
+  xy: 115, 21
+  size: 98, 41
+  orig: 98, 41
+  offset: 0, 0
+  index: -1
+em_star_star
+  rotate: false
+  xy: 218, 96
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+maozi
+  rotate: true
+  xy: 201, 10
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+s1
+  rotate: 270
+  xy: 165, 1
+  size: 26, 30
+  orig: 26, 32
+  offset: 0, 2
+  index: -1
+s2
+  rotate: false
+  xy: 218, 46
+  size: 26, 29
+  orig: 26, 32
+  offset: 0, 3
+  index: -1
+st
+  rotate: false
+  xy: 157, 24
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 157, 59
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+yj
+  rotate: false
+  xy: 115, 8
+  size: 49, 11
+  orig: 49, 11
+  offset: 0, 0
+  index: -1

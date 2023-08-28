@@ -1,0 +1,76 @@
+
+change_zhj.png
+size: 973,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 575, 3
+  size: 98, 112
+  orig: 98, 112
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 773, 1
+  size: 95, 114
+  orig: 95, 114
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 0, 1
+  size: 123, 114
+  orig: 123, 114
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 125, 0
+  size: 119, 115
+  orig: 119, 115
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 360, 1
+  size: 107, 114
+  orig: 107, 114
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 469, 1
+  size: 104, 114
+  orig: 104, 114
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 870, 3
+  size: 85, 112
+  orig: 85, 112
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 675, 2
+  size: 96, 113
+  orig: 96, 113
+  offset: 0, 0
+  index: -1
+d
+  rotate: true
+  xy: 246, 2
+  size: 113, 112
+  orig: 115, 113
+  offset: 1, 1
+  index: -1
+em_star_star
+  rotate: false
+  xy: 957, 99
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1

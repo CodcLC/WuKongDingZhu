@@ -1,0 +1,62 @@
+
+boss_goutr.png
+size: 832,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bossgtr_1
+  rotate: true
+  xy: 2, 4
+  size: 234, 247
+  orig: 234, 247
+  offset: 0, 0
+  index: -1
+bossgtr_2
+  rotate: true
+  xy: 251, 73
+  size: 165, 202
+  orig: 165, 205
+  offset: 0, 3
+  index: -1
+bossgtr_3
+  rotate: true
+  xy: 455, 127
+  size: 111, 311
+  orig: 111, 311
+  offset: 0, 0
+  index: -1
+bossgtr_4
+  rotate: true
+  xy: 455, 14
+  size: 111, 311
+  orig: 111, 311
+  offset: 0, 0
+  index: -1
+bossgtr_5
+  rotate: false
+  xy: 251, 2
+  size: 81, 69
+  orig: 82, 69
+  offset: 1, 0
+  index: -1
+bossgtr_6
+  rotate: false
+  xy: 334, 3
+  size: 81, 68
+  orig: 82, 69
+  offset: 0, 0
+  index: -1
+bossgtr_7
+  rotate: false
+  xy: 768, 155
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+bossgtr_8
+  rotate: false
+  xy: 768, 70
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1

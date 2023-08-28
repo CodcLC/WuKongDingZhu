@@ -1,0 +1,84 @@
+{
+  "start-scene": "ef0db577-f93f-48b6-8964-d71aa93071d3",
+  "group-list": [
+    "default",
+    "ui",
+    "top",
+    "enmey"
+  ],
+  "collision-matrix": [
+    [
+      false,
+      null,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      true,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "migrate-history": [
+    "cloud-function"
+  ],
+  "last-module-event-record-time": 1693225844137
+}

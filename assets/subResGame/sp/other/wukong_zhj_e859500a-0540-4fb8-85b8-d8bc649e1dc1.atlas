@@ -1,0 +1,27 @@
+
+wukong_zhj.png
+size: 131,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 0, 0
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 86, 3
+  size: 35, 31
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 86, 36
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1

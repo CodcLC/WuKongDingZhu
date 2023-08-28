@@ -1,0 +1,223 @@
+
+bailongma_tx.png
+size: 589,498
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_2028
+  rotate: true
+  xy: 484, 29
+  size: 92, 83
+  orig: 102, 102
+  offset: 6, 13
+  index: -1
+impact_new_1_a_new_sheet_000
+  rotate: false
+  xy: 181, 231
+  size: 34, 22
+  orig: 136, 102
+  offset: 21, 28
+  index: -1
+impact_new_1_a_new_sheet_001
+  rotate: true
+  xy: 521, 253
+  size: 83, 58
+  orig: 136, 102
+  offset: 10, 17
+  index: -1
+impact_new_1_a_new_sheet_002
+  rotate: true
+  xy: 419, 0
+  size: 121, 63
+  orig: 136, 102
+  offset: 7, 19
+  index: -1
+impact_new_1_a_new_sheet_003
+  rotate: true
+  xy: 488, 123
+  size: 128, 58
+  orig: 136, 102
+  offset: 5, 23
+  index: -1
+impact_new_1_a_new_sheet_004
+  rotate: false
+  xy: 241, 64
+  size: 70, 31
+  orig: 136, 102
+  offset: 63, 49
+  index: -1
+impact_new_1_a_new_sheet_005
+  rotate: false
+  xy: 217, 248
+  size: 7, 5
+  orig: 136, 102
+  offset: 123, 57
+  index: -1
+leidian7_00007
+  rotate: false
+  xy: 521, 416
+  size: 43, 54
+  orig: 57, 250
+  offset: 10, 194
+  index: -1
+leidian7_00008
+  rotate: false
+  xy: 246, 308
+  size: 85, 190
+  orig: 89, 244
+  offset: 2, 50
+  index: -1
+leidian7_00009
+  rotate: false
+  xy: 0, 256
+  size: 88, 242
+  orig: 90, 247
+  offset: 1, 2
+  index: -1
+leidian7_00010
+  rotate: false
+  xy: 90, 258
+  size: 84, 240
+  orig: 88, 246
+  offset: 3, 1
+  index: -1
+leidian7_00011
+  rotate: false
+  xy: 176, 255
+  size: 68, 243
+  orig: 84, 246
+  offset: 12, 1
+  index: -1
+leidian7_00012
+  rotate: true
+  xy: 0, 35
+  size: 32, 239
+  orig: 70, 243
+  offset: 17, 1
+  index: -1
+leidian7_00013
+  rotate: true
+  xy: 0, 0
+  size: 33, 227
+  orig: 48, 240
+  offset: 14, 1
+  index: -1
+leidian7_00014
+  rotate: false
+  xy: 488, 253
+  size: 31, 219
+  orig: 34, 239
+  offset: 1, 1
+  index: -1
+lightning_strike_sheet_000
+  rotate: true
+  xy: 548, 123
+  size: 49, 41
+  orig: 102, 205
+  offset: 29, 162
+  index: -1
+lightning_strike_sheet_001
+  rotate: false
+  xy: 521, 338
+  size: 51, 76
+  orig: 102, 205
+  offset: 22, 127
+  index: -1
+lightning_strike_sheet_002
+  rotate: false
+  xy: 181, 228
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lightning_strike_sheet_009
+  rotate: false
+  xy: 181, 228
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lightning_strike_sheet_013
+  rotate: false
+  xy: 181, 228
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lightning_strike_sheet_003
+  rotate: false
+  xy: 424, 303
+  size: 62, 195
+  orig: 102, 205
+  offset: 22, 0
+  index: -1
+lightning_strike_sheet_004
+  rotate: false
+  xy: 424, 123
+  size: 62, 178
+  orig: 102, 205
+  offset: 27, 7
+  index: -1
+lightning_strike_sheet_005
+  rotate: true
+  xy: 0, 179
+  size: 74, 179
+  orig: 102, 205
+  offset: 15, 2
+  index: -1
+lightning_strike_sheet_006
+  rotate: true
+  xy: 246, 224
+  size: 82, 176
+  orig: 102, 205
+  offset: 10, 1
+  index: -1
+lightning_strike_sheet_007
+  rotate: true
+  xy: 181, 153
+  size: 69, 181
+  orig: 102, 205
+  offset: 13, 2
+  index: -1
+lightning_strike_sheet_008
+  rotate: false
+  xy: 333, 321
+  size: 88, 177
+  orig: 102, 205
+  offset: 14, 3
+  index: -1
+lightning_strike_sheet_010
+  rotate: true
+  xy: 241, 1
+  size: 44, 176
+  orig: 102, 205
+  offset: 27, 7
+  index: -1
+lightning_strike_sheet_011
+  rotate: false
+  xy: 364, 47
+  size: 48, 175
+  orig: 102, 205
+  offset: 23, 6
+  index: -1
+lightning_strike_sheet_012
+  rotate: true
+  xy: 0, 123
+  size: 54, 177
+  orig: 102, 205
+  offset: 20, 3
+  index: -1
+lightning_strike_sheet_014
+  rotate: true
+  xy: 179, 97
+  size: 54, 175
+  orig: 102, 205
+  offset: 21, 5
+  index: -1
+lightning_strike_sheet_015
+  rotate: true
+  xy: 0, 69
+  size: 52, 169
+  orig: 102, 205
+  offset: 23, 5
+  index: -1

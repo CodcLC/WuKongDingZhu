@@ -1,0 +1,125 @@
+
+zhizhujin_zhj.png
+size: 910,867
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian/002302itzslytsmtm9_000
+  rotate: false
+  xy: 0, 216
+  size: 113, 53
+  orig: 116, 58
+  offset: 3, 5
+  index: -1
+dian/002302itzslytsmtm9_001
+  rotate: false
+  xy: 674, 135
+  size: 112, 46
+  orig: 116, 58
+  offset: 0, 5
+  index: -1
+dian/002302itzslytsmtm9_002
+  rotate: false
+  xy: 444, 3
+  size: 106, 53
+  orig: 116, 58
+  offset: 0, 0
+  index: -1
+dian/002302itzslytsmtm9_003
+  rotate: false
+  xy: 224, 713
+  size: 72, 32
+  orig: 116, 58
+  offset: 2, 0
+  index: -1
+dian/151525wcgzxi2cjb08_000
+  rotate: false
+  xy: 355, 2
+  size: 87, 96
+  orig: 116, 116
+  offset: 18, 9
+  index: -1
+dian/151525wcgzxi2cjb08_001
+  rotate: false
+  xy: 817, 733
+  size: 86, 87
+  orig: 116, 116
+  offset: 16, 18
+  index: -1
+dian/151525wcgzxi2cjb08_002
+  rotate: false
+  xy: 796, 308
+  size: 103, 109
+  orig: 116, 116
+  offset: 6, 4
+  index: -1
+dian/151525wcgzxi2cjb08_003
+  rotate: false
+  xy: 721, 733
+  size: 94, 116
+  orig: 116, 116
+  offset: 11, 0
+  index: -1
+dian/lighting_11003_000
+  rotate: false
+  xy: 629, 13
+  size: 199, 120
+  orig: 256, 128
+  offset: 0, 4
+  index: -1
+dian/lighting_11003_001
+  rotate: true
+  xy: 0, 341
+  size: 248, 72
+  orig: 256, 128
+  offset: 0, 24
+  index: -1
+dian/lighting_11003_002
+  rotate: false
+  xy: 0, 97
+  size: 224, 112
+  orig: 256, 128
+  offset: 32, 8
+  index: -1
+dian/lighting_11003_003
+  rotate: false
+  xy: 0, 747
+  size: 256, 120
+  orig: 256, 128
+  offset: 0, 8
+  index: -1
+dian/lighting_3001_000
+  rotate: false
+  xy: 0, 621
+  size: 222, 124
+  orig: 256, 128
+  offset: 10, 4
+  index: -1
+dian/lighting_3001_001
+  rotate: false
+  xy: 459, 751
+  size: 187, 116
+  orig: 256, 128
+  offset: 49, 0
+  index: -1
+dian/lighting_3001_002
+  rotate: false
+  xy: 712, 623
+  size: 180, 108
+  orig: 256, 128
+  offset: 72, 4
+  index: -1
+dian/lighting_3001_003
+  rotate: false
+  xy: 0, 8
+  size: 152, 87
+  orig: 256, 128
+  offset: 84, 4
+  index: -1
+zhizhuw
+  rotate: false
+  xy: 0, 0
+  size: 910, 867
+  orig: 910, 867
+  offset: 0, 0
+  index: -1

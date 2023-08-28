@@ -1,0 +1,83 @@
+
+kaishizhandou.png
+size: 2009,501
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_00001
+  rotate: false
+  xy: 1075, 71
+  size: 137, 139
+  orig: 400, 227
+  offset: 131, 47
+  index: -1
+001_00002
+  rotate: false
+  xy: 1525, 57
+  size: 163, 160
+  orig: 400, 227
+  offset: 120, 40
+  index: -1
+001_00003
+  rotate: false
+  xy: 1304, 13
+  size: 219, 204
+  orig: 400, 227
+  offset: 90, 17
+  index: -1
+001_00004
+  rotate: true
+  xy: 1304, 219
+  size: 282, 227
+  orig: 400, 227
+  offset: 65, 0
+  index: -1
+001_00005
+  rotate: true
+  xy: 1533, 219
+  size: 282, 227
+  orig: 400, 227
+  offset: 65, 0
+  index: -1
+001_00006
+  rotate: true
+  xy: 846, 197
+  size: 304, 227
+  orig: 400, 227
+  offset: 52, 0
+  index: -1
+001_00007
+  rotate: true
+  xy: 1075, 212
+  size: 289, 227
+  orig: 400, 227
+  offset: 64, 0
+  index: -1
+001_00008
+  rotate: true
+  xy: 1762, 228
+  size: 273, 227
+  orig: 400, 227
+  offset: 66, 0
+  index: -1
+001_00009
+  rotate: false
+  xy: 1762, 0
+  size: 247, 226
+  orig: 400, 227
+  offset: 71, 0
+  index: -1
+1
+  rotate: false
+  xy: 0, 79
+  size: 421, 422
+  orig: 424, 425
+  offset: 2, 1
+  index: -1
+2
+  rotate: false
+  xy: 423, 79
+  size: 421, 422
+  orig: 424, 425
+  offset: 1, 1
+  index: -1

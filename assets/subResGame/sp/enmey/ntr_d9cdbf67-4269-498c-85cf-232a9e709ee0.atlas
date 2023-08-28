@@ -1,0 +1,55 @@
+
+ntr.png
+size: 169,225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ntr_bbt
+  rotate: false
+  xy: 2, 125
+  size: 144, 98
+  orig: 144, 98
+  offset: 0, 0
+  index: -1
+ntr_body
+  rotate: true
+  xy: 2, 40
+  size: 83, 84
+  orig: 84, 89
+  offset: 0, 0
+  index: -1
+ntr_jio
+  rotate: false
+  xy: 148, 193
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+ntr_jio2
+  rotate: false
+  xy: 148, 161
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+ntr_shou
+  rotate: false
+  xy: 2, 2
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+ntr_shou2
+  rotate: true
+  xy: 88, 6
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+ntr_tou
+  rotate: false
+  xy: 88, 52
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1

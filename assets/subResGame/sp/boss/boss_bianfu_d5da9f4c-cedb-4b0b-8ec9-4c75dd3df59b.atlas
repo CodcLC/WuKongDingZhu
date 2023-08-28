@@ -1,0 +1,48 @@
+
+boss_bianfu.png
+size: 888,207
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianfu2_1
+  rotate: true
+  xy: 294, 4
+  size: 201, 290
+  orig: 201, 290
+  offset: 0, 0
+  index: -1
+bianfu2_2
+  rotate: true
+  xy: 2, 2
+  size: 203, 290
+  orig: 203, 290
+  offset: 0, 0
+  index: -1
+bianfu2_3
+  rotate: false
+  xy: 586, 6
+  size: 39, 37
+  orig: 39, 38
+  offset: 0, 1
+  index: -1
+bianfu2_4
+  rotate: false
+  xy: 825, 104
+  size: 39, 37
+  orig: 39, 38
+  offset: 0, 1
+  index: -1
+bianfu2_5
+  rotate: true
+  xy: 586, 45
+  size: 160, 237
+  orig: 160, 237
+  offset: 0, 0
+  index: -1
+bianfu2_52
+  rotate: false
+  xy: 825, 143
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1

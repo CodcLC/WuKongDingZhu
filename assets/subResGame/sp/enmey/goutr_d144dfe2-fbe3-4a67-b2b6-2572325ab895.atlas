@@ -1,0 +1,41 @@
+
+goutr.png
+size: 132,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+goutr_body
+  rotate: false
+  xy: 55, 133
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
+goutr_shou
+  rotate: false
+  xy: 2, 87
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+goutr_shou2
+  rotate: true
+  xy: 51, 81
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+goutr_tou
+  rotate: false
+  xy: 2, 2
+  size: 128, 77
+  orig: 128, 77
+  offset: 0, 0
+  index: -1
+goutr_tui
+  rotate: false
+  xy: 2, 154
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1

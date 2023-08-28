@@ -1,0 +1,55 @@
+
+boss_dts.png
+size: 656,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_dts_1
+  rotate: true
+  xy: 374, 15
+  size: 39, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+boss_dts_2
+  rotate: true
+  xy: 2, 2
+  size: 264, 370
+  orig: 266, 373
+  offset: 1, 1
+  index: -1
+boss_dts_3
+  rotate: true
+  xy: 374, 56
+  size: 210, 193
+  orig: 211, 194
+  offset: 0, 0
+  index: -1
+boss_dts_4
+  rotate: false
+  xy: 411, 276
+  size: 243, 236
+  orig: 243, 236
+  offset: 0, 0
+  index: -1
+boss_dts_5
+  rotate: true
+  xy: 569, 77
+  size: 84, 82
+  orig: 86, 85
+  offset: 1, 2
+  index: -1
+boss_dts_6
+  rotate: false
+  xy: 569, 163
+  size: 81, 111
+  orig: 187, 111
+  offset: 0, 0
+  index: -1
+boss_dts_7
+  rotate: false
+  xy: 2, 268
+  size: 407, 244
+  orig: 407, 244
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+xxg.png
+size: 176,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xxg_body
+  rotate: true
+  xy: 2, 2
+  size: 129, 110
+  orig: 129, 110
+  offset: 0, 0
+  index: -1
+xxg_jio
+  rotate: false
+  xy: 114, 14
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+xxg_tou
+  rotate: true
+  xy: 114, 55
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+change_shouji.png
+size: 307,69
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nhon_nhon_000
+  rotate: false
+  xy: 287, 44
+  size: 20, 25
+  orig: 68, 74
+  offset: 28, 25
+  index: -1
+Nhon_nhon_001
+  rotate: false
+  xy: 236, 15
+  size: 49, 54
+  orig: 68, 74
+  offset: 15, 7
+  index: -1
+Nhon_nhon_002
+  rotate: false
+  xy: 120, 9
+  size: 60, 60
+  orig: 68, 74
+  offset: 8, 10
+  index: -1
+Nhon_nhon_003
+  rotate: false
+  xy: 0, 0
+  size: 59, 69
+  orig: 68, 74
+  offset: 7, 5
+  index: -1
+Nhon_nhon_004
+  rotate: false
+  xy: 61, 2
+  size: 57, 67
+  orig: 68, 74
+  offset: 8, 5
+  index: -1
+Nhon_nhon_005
+  rotate: false
+  xy: 182, 3
+  size: 52, 66
+  orig: 68, 74
+  offset: 9, 5
+  index: -1

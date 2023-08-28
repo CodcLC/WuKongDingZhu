@@ -1,0 +1,41 @@
+
+sanyao.png
+size: 75,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sanyao_1
+  rotate: false
+  xy: 49, 106
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+sanyao_2
+  rotate: true
+  xy: 21, 122
+  size: 15, 26
+  orig: 17, 29
+  offset: 1, 2
+  index: -1
+sanyao_3
+  rotate: false
+  xy: 2, 2
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+sanyao_4
+  rotate: true
+  xy: 2, 102
+  size: 18, 44
+  orig: 18, 44
+  offset: 0, 0
+  index: -1
+sanyao_5
+  rotate: false
+  xy: 2, 131
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1

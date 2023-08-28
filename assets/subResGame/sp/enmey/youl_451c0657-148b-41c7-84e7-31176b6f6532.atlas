@@ -1,0 +1,27 @@
+
+youl.png
+size: 137,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youl_1
+  rotate: false
+  xy: 111, 66
+  size: 24, 24
+  orig: 24, 30
+  offset: 0, 5
+  index: -1
+youl_2
+  rotate: false
+  xy: 111, 39
+  size: 20, 25
+  orig: 20, 26
+  offset: 0, 1
+  index: -1
+youl_3
+  rotate: true
+  xy: 2, 2
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1

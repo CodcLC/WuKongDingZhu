@@ -1,0 +1,83 @@
+
+leidian_buff.png
+size: 814,175
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightning_purple_1_sheet_000
+  rotate: false
+  xy: 348, 2
+  size: 49, 39
+  orig: 128, 170
+  offset: 43, 0
+  index: -1
+lightning_purple_1_sheet_001
+  rotate: false
+  xy: 667, 74
+  size: 93, 101
+  orig: 128, 170
+  offset: 16, 0
+  index: -1
+lightning_purple_1_sheet_002
+  rotate: true
+  xy: 557, 66
+  size: 109, 108
+  orig: 128, 170
+  offset: 10, 0
+  index: -1
+lightning_purple_1_sheet_004
+  rotate: false
+  xy: 118, 5
+  size: 114, 170
+  orig: 128, 170
+  offset: 8, 0
+  index: -1
+lightning_purple_1_sheet_005
+  rotate: false
+  xy: 466, 5
+  size: 89, 170
+  orig: 128, 170
+  offset: 8, 0
+  index: -1
+lightning_purple_1_sheet_006
+  rotate: false
+  xy: 234, 5
+  size: 112, 170
+  orig: 128, 170
+  offset: 11, 0
+  index: -1
+lightning_purple_1_sheet_007
+  rotate: false
+  xy: 348, 43
+  size: 116, 132
+  orig: 128, 170
+  offset: 8, 0
+  index: -1
+lightning_purple_1_sheet_008
+  rotate: false
+  xy: 0, 7
+  size: 116, 168
+  orig: 128, 170
+  offset: 6, 2
+  index: -1
+lightning_purple_1_sheet_009
+  rotate: false
+  xy: 790, 27
+  size: 24, 148
+  orig: 128, 170
+  offset: 58, 22
+  index: -1
+lightning_purple_1_sheet_010
+  rotate: true
+  xy: 667, 0
+  size: 72, 121
+  orig: 128, 170
+  offset: 6, 49
+  index: -1
+lightning_purple_1_sheet_011
+  rotate: false
+  xy: 557, 22
+  size: 18, 42
+  orig: 128, 170
+  offset: 6, 61
+  index: -1

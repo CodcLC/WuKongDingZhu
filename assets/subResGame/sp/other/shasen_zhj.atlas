@@ -1,0 +1,48 @@
+
+shasen_zhj.png
+size: 200,1810
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_00000
+  rotate: false
+  xy: 0, 1510
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+001_00002
+  rotate: false
+  xy: 0, 1208
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+001_00004
+  rotate: false
+  xy: 0, 906
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+001_00006
+  rotate: false
+  xy: 0, 604
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+001_00008
+  rotate: false
+  xy: 0, 302
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+001_00009
+  rotate: false
+  xy: 0, 0
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1

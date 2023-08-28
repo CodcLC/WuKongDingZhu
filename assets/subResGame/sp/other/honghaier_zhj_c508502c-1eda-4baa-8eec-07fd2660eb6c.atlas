@@ -1,0 +1,146 @@
+
+honghaier_zhj.png
+size: 62,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 0, 57
+  size: 47, 44
+  orig: 60, 49
+  offset: 13, 5
+  index: -1
+11
+  rotate: false
+  xy: 0, 12
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 25, 1
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+210355peiwr09rv8i7_000
+  rotate: true
+  xy: 26, 15
+  size: 12, 24
+  orig: 17, 35
+  offset: 2, 3
+  index: -1
+210355peiwr09rv8i7_001
+  rotate: true
+  xy: 0, 41
+  size: 14, 26
+  orig: 17, 35
+  offset: 1, 2
+  index: -1
+210355peiwr09rv8i7_002
+  rotate: false
+  xy: 46, 310
+  size: 13, 29
+  orig: 17, 35
+  offset: 2, 2
+  index: -1
+210355peiwr09rv8i7_003
+  rotate: false
+  xy: 49, 71
+  size: 13, 30
+  orig: 17, 35
+  offset: 2, 2
+  index: -1
+210355peiwr09rv8i7_004
+  rotate: false
+  xy: 46, 341
+  size: 13, 29
+  orig: 17, 35
+  offset: 2, 2
+  index: -1
+210355peiwr09rv8i7_005
+  rotate: true
+  xy: 28, 43
+  size: 12, 30
+  orig: 17, 35
+  offset: 2, 2
+  index: -1
+210355peiwr09rv8i7_006
+  rotate: true
+  xy: 28, 29
+  size: 12, 30
+  orig: 17, 35
+  offset: 3, 2
+  index: -1
+210355peiwr09rv8i7_007
+  rotate: true
+  xy: 0, 26
+  size: 13, 24
+  orig: 17, 35
+  offset: 2, 2
+  index: -1
+8
+  rotate: false
+  xy: 44, 242
+  size: 13, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 0, 242
+  size: 61, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+sequence_1099_000
+  rotate: true
+  xy: 0, 147
+  size: 44, 54
+  orig: 77, 77
+  offset: 21, 5
+  index: -1
+sequence_1099_001
+  rotate: false
+  xy: 0, 311
+  size: 44, 70
+  orig: 77, 77
+  offset: 11, 1
+  index: -1
+sequence_1099_002
+  rotate: true
+  xy: 0, 103
+  size: 42, 55
+  orig: 77, 77
+  offset: 14, 14
+  index: -1
+sequence_1099_003
+  rotate: true
+  xy: 0, 193
+  size: 47, 52
+  orig: 77, 77
+  offset: 16, 4
+  index: -1
+sequence_1099_004
+  rotate: false
+  xy: 0, 516
+  size: 59, 70
+  orig: 77, 77
+  offset: 4, 0
+  index: -1
+sequence_1099_005
+  rotate: false
+  xy: 0, 448
+  size: 62, 66
+  orig: 77, 77
+  offset: 4, 3
+  index: -1
+sequence_1099_006
+  rotate: true
+  xy: 0, 383
+  size: 63, 62
+  orig: 77, 77
+  offset: 9, 11
+  index: -1

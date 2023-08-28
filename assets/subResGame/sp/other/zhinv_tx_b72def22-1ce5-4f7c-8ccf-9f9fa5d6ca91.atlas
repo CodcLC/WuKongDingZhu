@@ -1,0 +1,104 @@
+
+zhinv_tx.png
+size: 450,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 278, 2
+  size: 38, 170
+  orig: 38, 170
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 318, 2
+  size: 38, 170
+  orig: 38, 170
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 75, 50
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+atk20003
+  rotate: false
+  xy: 0, 4
+  size: 74, 55
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+atk20005
+  rotate: false
+  xy: 0, 61
+  size: 101, 112
+  orig: 101, 112
+  offset: 0, 0
+  index: -1
+atk20006
+  rotate: false
+  xy: 358, 66
+  size: 58, 107
+  orig: 58, 107
+  offset: 0, 0
+  index: -1
+atk20007
+  rotate: false
+  xy: 358, 1
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+atk20008
+  rotate: true
+  xy: 418, 66
+  size: 37, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 192, 2
+  size: 41, 170
+  orig: 41, 170
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 235, 2
+  size: 41, 170
+  orig: 41, 170
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 75, 39
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 102, 2
+  size: 43, 170
+  orig: 43, 170
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 147, 2
+  size: 43, 170
+  orig: 43, 170
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 75, 28
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1

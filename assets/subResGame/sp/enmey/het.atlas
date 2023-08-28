@@ -1,0 +1,41 @@
+
+het.png
+size: 217,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+het_1
+  rotate: false
+  xy: 197, 45
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+het_2
+  rotate: false
+  xy: 197, 17
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+het_3
+  rotate: false
+  xy: 142, 6
+  size: 53, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+het_4
+  rotate: false
+  xy: 2, 2
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+het_5
+  rotate: false
+  xy: 79, 4
+  size: 61, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1

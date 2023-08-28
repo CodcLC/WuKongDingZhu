@@ -1,0 +1,55 @@
+
+boss_mog.png
+size: 414,539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_mog_1
+  rotate: false
+  xy: 2, 6
+  size: 223, 245
+  orig: 224, 247
+  offset: 0, 1
+  index: -1
+boss_mog_2
+  rotate: true
+  xy: 227, 2
+  size: 176, 185
+  orig: 176, 185
+  offset: 0, 0
+  index: -1
+boss_mog_3
+  rotate: true
+  xy: 301, 348
+  size: 93, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+boss_mog_4
+  rotate: true
+  xy: 301, 443
+  size: 94, 106
+  orig: 94, 106
+  offset: 0, 0
+  index: -1
+boss_mog_5
+  rotate: true
+  xy: 301, 264
+  size: 82, 103
+  orig: 102, 141
+  offset: 0, 0
+  index: -1
+boss_mog_6
+  rotate: true
+  xy: 301, 180
+  size: 82, 101
+  orig: 102, 141
+  offset: 20, 0
+  index: -1
+boss_mog_7
+  rotate: false
+  xy: 2, 253
+  size: 297, 284
+  orig: 299, 285
+  offset: 1, 1
+  index: -1

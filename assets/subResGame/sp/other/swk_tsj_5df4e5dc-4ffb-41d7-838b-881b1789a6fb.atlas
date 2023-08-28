@@ -1,0 +1,118 @@
+
+swk_tsj.png
+size: 400,870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 0, 156
+  size: 91, 715
+  orig: 91, 715
+  offset: 0, 0
+  index: -1
+a2
+  rotate: 180
+  xy: 73, 156
+  size: 91, 715
+  orig: 91, 715
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 147, 156
+  size: 91, 715
+  orig: 91, 715
+  offset: 0, 0
+  index: -1
+a4
+  rotate: 180
+  xy: 221, 156
+  size: 91, 715
+  orig: 91, 715
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 295, 156
+  size: 91, 715
+  orig: 91, 715
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 0, 44
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 112, 44
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+sequence_1064_000
+  rotate: false
+  xy: 289, 6
+  size: 52, 49
+  orig: 82, 102
+  offset: 28, 23
+  index: -1
+sequence_1064_001
+  rotate: false
+  xy: 289, 108
+  size: 64, 46
+  orig: 82, 102
+  offset: 16, 22
+  index: -1
+sequence_1064_002
+  rotate: false
+  xy: 224, 49
+  size: 63, 51
+  orig: 82, 102
+  offset: 12, 23
+  index: -1
+sequence_1064_003
+  rotate: false
+  xy: 224, 102
+  size: 63, 52
+  orig: 82, 102
+  offset: 8, 22
+  index: -1
+sequence_1064_004
+  rotate: true
+  xy: 351, 48
+  size: 58, 49
+  orig: 82, 102
+  offset: 4, 22
+  index: -1
+sequence_1064_005
+  rotate: false
+  xy: 289, 57
+  size: 60, 49
+  orig: 82, 102
+  offset: 0, 23
+  index: -1
+sequence_1064_006
+  rotate: false
+  xy: 224, 1
+  size: 55, 46
+  orig: 82, 102
+  offset: 2, 23
+  index: -1
+sequence_1064_007
+  rotate: false
+  xy: 0, 1
+  size: 45, 41
+  orig: 82, 102
+  offset: 4, 25
+  index: -1
+sequence_1064_008
+  rotate: false
+  xy: 47, 8
+  size: 35, 34
+  orig: 82, 102
+  offset: 7, 28
+  index: -1

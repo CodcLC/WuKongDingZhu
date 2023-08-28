@@ -1,0 +1,62 @@
+
+boss_dtg.png
+size: 397,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_dtg_1
+  rotate: false
+  xy: 204, 331
+  size: 191, 204
+  orig: 192, 204
+  offset: 0, 0
+  index: -1
+boss_dtg_2
+  rotate: false
+  xy: 2, 72
+  size: 176, 94
+  orig: 178, 94
+  offset: 1, 0
+  index: -1
+boss_dtg_3
+  rotate: false
+  xy: 301, 2
+  size: 84, 48
+  orig: 86, 48
+  offset: 1, 0
+  index: -1
+boss_dtg_4
+  rotate: false
+  xy: 204, 120
+  size: 178, 209
+  orig: 178, 209
+  offset: 0, 0
+  index: -1
+boss_dtg_5
+  rotate: true
+  xy: 180, 3
+  size: 115, 119
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+boss_dtg_6
+  rotate: false
+  xy: 301, 52
+  size: 67, 66
+  orig: 68, 67
+  offset: 0, 1
+  index: -1
+boss_dtg_7
+  rotate: false
+  xy: 2, 168
+  size: 200, 367
+  orig: 445, 367
+  offset: 245, 0
+  index: -1
+boss_dtg_8
+  rotate: false
+  xy: 2, 9
+  size: 145, 61
+  orig: 145, 62
+  offset: 0, 0
+  index: -1
